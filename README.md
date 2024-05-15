@@ -1,16 +1,15 @@
 # todo_app
 
-A new Flutter project.
+My First Flutter project! I created this Todo App with inspiration from ZTM's Tutorials with additional features for clearing completed tasks and adding checkboxes to toggle the completed attribute of a todo
 
-## Getting Started
+# What I Learned:
+- Basics of Dart Syntax for Flutter Apps
+- Basics of creating models and pages in Dart
+- Riverpod as a State Management Solution
+- Navigation to different pages
 
-This project is a starting point for a Flutter application.
+# How to Run:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Download and Unzip the file.
+2. Open the terminal at the unzipped folder.
+3. Enter flutter run
